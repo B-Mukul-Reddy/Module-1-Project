@@ -42,26 +42,43 @@ Print all users in sorted order based on their leftover balance.
 Sample Input 0
 
 4
+
 1 9000
+
 2 3000
+
 3 7500
+
 4 2000
 
 5
+
 1 2 1000
+
 3 4 3000
+
 2 3 500
+
 4 1 7500
+
 1 4 1500
+
 Sample Output 0
 
 Success
+
 Success
+
 Success
+
 Failure
+
 Success
 
 2 3500
+
 3 5000
+
 1 6500
+
 4 6500
